@@ -1,0 +1,14 @@
+.Header {
+	max-width: 1024px;
+	text-align: center;
+	font-family: 'Hind Siliguri', sans-serif;
+	}
+.Content {
+	max-width: 1024px;
+	text-align: center;
+	font-family: 'Hind Siliguri', sans-serif;
+}
+ul li {
+  display: flex;
+  justify-content: center;
+}
